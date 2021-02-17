@@ -11,6 +11,9 @@
 <p>I also like making videos and music, and recently I've been learning assembly language and reverse engineering.</p>
 <p>I have a wide range of interests. If you have a project that you think would be fun, please let me know!</p>
 
+<h2>Works</h2>
+<a href="https://satoh.dev/works/">Click here to see my works</a>
+
 <p align="left">
   <a href="https://github.com/sohsatoh/sohsatoh/">
     <img src="https://komarev.com/ghpvc/?username=sohsatoh" alt="sohsatoh" />
