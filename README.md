@@ -6,10 +6,10 @@
 </a>
 
 <h1>Hello, I'm Soh!</h1>
-<p>I'm a Japan-based developer.</p>
-<p>I mainly create software (tweaks) for jailbroken iPhones. We also write software for Mac, develop DRM, and create websites.</p>
+<p>I'm a developer based in Japan.</p>
+<p>I mainly create software for jailbroken iDevices. I also develop software for Mac, and create websites.</p>
 <p>I also like making videos and music, and recently I've been learning assembly language and reverse engineering.</p>
-<p>I have a wide range of interests. If you have a project that you think would be fun, please let us know!</p>
+<p>I have a wide range of interests. If you have a project that you think would be fun, please let me know!</p>
 
 <p align="left">
   <a href="https://github.com/sohsatoh/sohsatoh/">
