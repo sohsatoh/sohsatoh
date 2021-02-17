@@ -18,7 +18,7 @@
     <img height="20" src="https://img.shields.io/github/followers/sohsatoh?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://www.reddit.com/user/s_satoh">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutakatay?label=Reddit&logo=reddit&style=flat" />
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/s_satoh?label=Reddit&logo=reddit&style=flat" />
   </a>
   <a href="http://qiita.com/sohsatoh">
     <img height="20" src="https://qiita-badge.apiapi.app/s/sohsatoh/posts.svg" />
