@@ -1,11 +1,11 @@
-<p align="left">
+<!-- <div style="display:contents"> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=sohsatoh&count_private=true&show_icons=true" />
+    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=sohsatoh&count_private=true&show_icons=true" style="padding-right: 2.5%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohsatoh" />
+    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohsatoh" style="padding-right: 2.5%" />
   </a>
-</p>
+<!-- </div> -->
 
 <p align="left">
   <a href="https://github.com/sohsatoh/sohsatoh/">
