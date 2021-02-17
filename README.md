@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=sohsatoh&count_private=true&show_icons=true" style="padding-right: 2.5%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sohsatoh&count_private=true&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohsatoh" style="padding-right: 2.5%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohsatoh"/>
 </a>
 
 <h1>Hello, I'm Soh!</h1>
