@@ -1,16 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sohsatoh&count_private=true&show_icons=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohsatoh"/>
-</a>
-
-<h1>Hello, I'm Soh!</h1>
-<p>I'm a developer based in Japan.</p>
-<p>I mainly create software for jailbroken iDevices. I also develop software for Mac, and create websites.</p>
-<p>I also like making videos and music, and recently I've been learning assembly language and reverse engineering.</p>
-<p>I have a wide range of interests. If you have a project that you think would be fun, please let me know!</p>
-
 <p align="left">
   <h2>Works</h2>
   <a href="https://satoh.dev/works/">Click here to see my works</a>
