@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="http://twitter.com/soh_satoh">
-    <img height="20" src="https://img.shields.io/twitter/follow/soh_satoh?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/sohsatoh?style=flat" />
   </a>
   <a href="https://github.com/sohsatoh">
     <img height="20" src="https://img.shields.io/github/followers/sohsatoh?label=follow&logo=github&style=flat" />
