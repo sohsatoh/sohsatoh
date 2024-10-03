@@ -4,9 +4,6 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/sohsatoh/sohsatoh/">
-    <img src="https://komarev.com/ghpvc/?username=sohsatoh" alt="sohsatoh" />
-  </a>
   <a href="http://twitter.com/soh_satoh">
     <img height="20" src="https://img.shields.io/twitter/follow/soh_satoh?label=Twitter&logo=twitter&style=flat" />
   </a>
